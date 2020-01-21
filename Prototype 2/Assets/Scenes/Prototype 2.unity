@@ -176,7 +176,6 @@ MonoBehaviour:
   - {fileID: 4348710158845689124, guid: 573dd99be96e2734a9fd911b0e22cbf6, type: 3}
   - {fileID: 2337548445018903191, guid: a0ecb0d0ac957814c94e376c631770cf, type: 3}
   - {fileID: 5721460135154584812, guid: 10104d9b2dbe3a84da6daab5efa24599, type: 3}
-  animalIndex: 0
 --- !u!4 &109324333
 Transform:
   m_ObjectHideFlags: 0
@@ -508,7 +507,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 45
-  orthographic: 0
+  orthographic: 1
   orthographic size: 10
   m_Depth: -1
   m_CullingMask:
