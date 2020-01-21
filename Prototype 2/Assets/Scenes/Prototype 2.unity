@@ -172,10 +172,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ef11288772d2e248827508ebf04050d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabs:
-  - {fileID: 1783486738}
-  - {fileID: 1902639650}
-  - {fileID: 1695891824}
+  animalPrefabs:
+  - {fileID: 4348710158845689124, guid: 573dd99be96e2734a9fd911b0e22cbf6, type: 3}
+  - {fileID: 2337548445018903191, guid: a0ecb0d0ac957814c94e376c631770cf, type: 3}
+  - {fileID: 5721460135154584812, guid: 10104d9b2dbe3a84da6daab5efa24599, type: 3}
+  animalIndex: 0
 --- !u!4 &109324333
 Transform:
   m_ObjectHideFlags: 0
